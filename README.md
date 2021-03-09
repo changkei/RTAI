@@ -1,2 +1,2 @@
 # RTAI
-Real Time AI Course Repo
+Keith Chang UNCC Real Time AI Course Repo
