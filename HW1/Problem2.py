@@ -3,6 +3,7 @@ import time
 import cv2
 #print(torch.__version__)
 
+#change to other modelsby changing 'yolov5s' to 'yolov5m'/'yolov5l'/'yolov5x'
 model = torch.hub.load('ultralytics/yolov5', 'yolov5s', pretrained=True)
 
 def imageDet(img_dir, batchS):
